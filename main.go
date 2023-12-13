@@ -1,8 +1,8 @@
 package main
 
 import (
-    "htmx/model"
-    "htmx/routes"
+    "github.com/lazarospsa/gophat/model"
+    "github.com/lazarospsa/gophat/routes"
 )
 
 func main() {
